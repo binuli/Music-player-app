@@ -10,6 +10,10 @@ h3 {
   color: rgb(54, 54, 54);
   text-align: center;
 }
-
+.music-player-title {
+  font-family: "Rubik Moonrocks", cursive;
+}
 @import "./song";
 @import "./player";
+@import "./library";
+@import "./nav";
